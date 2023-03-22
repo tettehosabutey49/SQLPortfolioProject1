@@ -6,7 +6,7 @@ order by 3,4
 --FROM PortfolioProject1..CovidVaccinations
 --order by 3,4
 
---Selct Data that would be used
+--Select Data that would be used
 
 Select location, date, total_cases, new_cases, total_deaths, population
 From PortfolioProject1..CovidDeaths 
